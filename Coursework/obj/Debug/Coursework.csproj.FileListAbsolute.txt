@@ -1,0 +1,10 @@
+C:\Codes\C#\Coursework\bin\Debug\Coursework.exe.config
+C:\Codes\C#\Coursework\bin\Debug\Coursework.exe
+C:\Codes\C#\Coursework\bin\Debug\Coursework.pdb
+C:\Codes\C#\Coursework\obj\Debug\Coursework.csprojAssemblyReference.cache
+C:\Codes\C#\Coursework\obj\Debug\Coursework.FormFigure.resources
+C:\Codes\C#\Coursework\obj\Debug\Coursework.Properties.Resources.resources
+C:\Codes\C#\Coursework\obj\Debug\Coursework.csproj.GenerateResource.cache
+C:\Codes\C#\Coursework\obj\Debug\Coursework.csproj.CoreCompileInputs.cache
+C:\Codes\C#\Coursework\obj\Debug\Coursework.exe
+C:\Codes\C#\Coursework\obj\Debug\Coursework.pdb
