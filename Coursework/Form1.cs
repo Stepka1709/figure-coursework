@@ -418,7 +418,7 @@ namespace Coursework
             //
             x[8] = Convert.ToInt32(0);
             y[8] = Convert.ToInt32(-(a / 2));
-            x[9] = Convert.ToInt32(+(a / 2) * Math.Cos(Math.PI / 4));
+            x[9] = Convert.ToInt32((a / 2) * Math.Cos(Math.PI / 4));
             y[9] = Convert.ToInt32(-(a / 2) * Math.Cos(Math.PI / 4));
             //
             x[10] = Convert.ToInt32((a / 2));
